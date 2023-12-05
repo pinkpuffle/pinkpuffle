@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pinkpuffle
-- 👀 I’m interested in developing projects for my final year of uni!
+- 👀 I’m interested in cybersecurity, ethical tech
 - 🌱 I’m currently learning Unity development and secure programming
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
